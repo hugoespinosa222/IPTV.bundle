@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1,***Canales Del Alejo Lali y Male***
+https://www.youtube.com/results?search_query=tutoshugo
+#EXTINF:-1,CARTOONS 
+http://200.76.77.237/LIVE/H01/CANAL322/PROFILE02.m3u8
+#EXTINF:-1,NICK
+http://200.76.77.237/LIVE/H01/CANAL317/PROFILE02.m3u8
+#EXTINF:-1,Boomerang
+http://www.ienlace-tv.com:1935/live11/livestream1.sdp/playlist.m3u8 
+#EXTINF:-1,Discovery kids
+http://www.ienlace-tv.com:1935/live6/livestream1.sdp/playlist.m3u8 
+#EXTINF:-1,DISNEY JR
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=201&lan=2&rows=40&f=.m3u8
+#EXTINF:-1,NICK JR
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=205&lan=2&rows=40&f=.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=209&lan=2&rows=40&f=.m3u8
+#EXTINF:-1,NICK HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=213&lan=2&rows=40&f=.m3u8
+#EXTINF:-1,NICK
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=217&lan=2&rows=40&f=.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=221&lan=2&rows=40&f=.m3u8
+#EXTINF:-1,DISNEY XD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=225&lan=2&rows=40&f=.m3u8
+#EXTINF:-1,FOX FAMILY
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=341&lan=2&rows=40&f=.m3u8
